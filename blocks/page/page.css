@@ -9,13 +9,13 @@
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 	-moz-text-size-adjust: 100%;
-	text-rendering: optimizeLegibility;
 	background-color: #2A2C2F;
 	color: #fff;
-   display: flex;
-   flex-direction: column;
+	display: flex;
+	flex-direction: column;
 	padding: 28px 0px 24px;
 }
+
 @media screen and (max-width: 740px) {
 	.page {
 		padding: 16px 0px 24px;
