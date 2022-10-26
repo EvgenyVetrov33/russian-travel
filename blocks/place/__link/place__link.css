@@ -5,4 +5,8 @@
    text-decoration: underline;
    color: #FFF;
 	margin: 6px 0px 0px 0px;
+	transition: opacity .5s ease 0s;
+}
+.place__link:hover {
+	opacity: .8;
 }
